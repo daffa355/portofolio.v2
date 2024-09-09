@@ -226,7 +226,7 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "";
+        content: "ultramen";
     }
     21%, 40%{
         content: "Developer";
